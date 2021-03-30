@@ -1,0 +1,16 @@
+int main()
+{
+char person's name,gender,father's name ,mother's name;
+printf("enter the person,s name");
+scanf("%c",person's name);
+printf("enter the gender");
+scanf("%c",gender);
+printf("enter the father's name");
+scanf("%c",father's name);
+printf("enter the mother's name");
+scanf("%c",mother's name);
+printf("person's name");
+ 
+
+sorry sir i need sometime to solve this problem...
+
